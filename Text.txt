@@ -1,1 +1,3 @@
 Aprenent a treballar amb SourceTree
+
+He creat una branca i modifico el text des de la branca
