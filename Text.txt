@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Aprenent a treballar amb SourceTree.
 
 Ara torno a la branca master per practicar amb les branques
+=======
+Aprenent a treballar amb SourceTree
+
+He creat una branca i modifico el text des de la branca
+>>>>>>> branch1
