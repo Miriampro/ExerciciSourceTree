@@ -1,1 +1,3 @@
-Aprenent a treballar amb SourceTree
+Aprenent a treballar amb SourceTree.
+
+Ara torno a la branca master per practicar amb les branques
